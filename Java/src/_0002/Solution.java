@@ -1,4 +1,8 @@
-public class Q2_AddTwoNumbers_ac1 {
+package _0002;
+
+import structures.ListNode;
+
+public class Solution {
 
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode head = null, node = null;
@@ -46,37 +50,10 @@ public class Q2_AddTwoNumbers_ac1 {
         return head;
     }
 
-    private static ListNode buildListNode(int[] input) {
-        ListNode first = null,last = null,newNode;
-        if (input.length>0) {
-            for (int i = 0; i < input.length; i++) {
-                newNode = new ListNode(input[i]);
-                newNode.next = null;
-                if (first == null) {
-                    first = newNode;
-                    last = newNode;
-                }
-                else {
-                    last.next = newNode;
-                    last = newNode;
-                }
-            }
-        }
-        return first;
-    }
-
-    private static void printLinkedList(ListNode listNode) {
-        while (listNode != null) {
-            int value = listNode.val;
-            System.out.println(value);
-            listNode = listNode.next;
-        }
-    }
-
     public static void main(String[] args) {
-        ListNode l1 = buildListNode(new int[]{2,4,4,3});
-        ListNode l2 = buildListNode(new int[]{5,6,6,4});
+        ListNode l1 = ListNode.buildListNode(new int[]{2,4,4,3});
+        ListNode l2 = ListNode.buildListNode(new int[]{5,6,6,4});
         ListNode targetNode = addTwoNumbers(l1, l2);
-        printLinkedList(targetNode);
+        ListNode.printLinkedList(targetNode);
     }
 }

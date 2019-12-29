@@ -1,4 +1,6 @@
-public class Q4_MedianofTwoSortedArrays {
+package _0004;
+
+public class Solution {
 
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int lenNums1 = nums1.length;

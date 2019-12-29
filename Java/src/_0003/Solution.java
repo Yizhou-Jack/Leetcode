@@ -1,7 +1,9 @@
+package _0003;
+
 import java.util.HashMap;
 import java.util.Map;
 
-public class Q3_LongestSubstringWithoutRepeatingCharacters {
+public class Solution {
 
     //滑动窗口法
     public static int lengthOfLongestSubstring(String s) {

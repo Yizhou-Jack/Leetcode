@@ -1,17 +1,15 @@
-package tools;
+package structures;
 
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int val) {
-        this.val = val;
-        this.next = null;
+public class ListNode {
+
+    public int val;
+    public ListNode next;
+
+    public ListNode(int x) {
+        val = x;
     }
-}
 
-public class ListNodeTool {
-
-    private static void printLinkedList(ListNode listNode) {
+    public static void printLinkedList(ListNode listNode) {
         while (listNode != null) {
             int value = listNode.val;
             System.out.println(value);
@@ -19,7 +17,7 @@ public class ListNodeTool {
         }
     }
 
-    private static ListNode buildListNode(int[] input) {
+    public static ListNode buildListNode(int[] input) {
         ListNode first = null, last = null, newNode;
         if (input.length > 0) {
             for (int i = 0; i < input.length; i++) {
@@ -37,6 +35,4 @@ public class ListNodeTool {
         }
         return first;
     }
-
 }
-
