@@ -11,6 +11,8 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 5 | Longest Palindromic Substring | Medium | Dynamic Programming |
 | 7 | Reverse Integer | Easy | Math |
 | 8 | String to Integer (atoi) | Medium | Math |
+| 10 | Regular Expression Matching | Hard | (UNDO) |
+| 11 | Container With Most Water | Medium | Dual Pointer |
 
 ## Python
 | Num | Title | Difficulty | Tag |
