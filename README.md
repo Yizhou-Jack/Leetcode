@@ -13,6 +13,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 8 | String to Integer (atoi) | Medium | Math |
 | 10 | Regular Expression Matching | Hard | (UNDO) |
 | 11 | Container With Most Water | Medium | Dual Pointer |
+| 13 | Roman to Integer | Easy | Hash Table |
+| 14 | Longest Common Prefix | Easy | Math |
+| 15 | Three Sum | Medium | Dual Pointer |
+| 17 | Letter Combinations of a Phone Number | Medium | Recursion |
 
 ## Python
 | Num | Title | Difficulty | Tag |
