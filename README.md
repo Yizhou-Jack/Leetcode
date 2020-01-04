@@ -17,6 +17,11 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 14 | Longest Common Prefix | Easy | Math |
 | 15 | Three Sum | Medium | Dual Pointer |
 | 17 | Letter Combinations of a Phone Number | Medium | Recursion |
+| 19 | Remove Nth Node From End of List | Medium | Linked List |
+| 20 | Valid Parentheses | Easy | Stack |
+| 21 | Merge Two Sorted Lists | Easy | Linked List |
+| 22 | Generate Parentheses | Medium | Recursion |
+| 23 | Merge K Sorted Lists | Hard | Recursion, Linked List |
 
 ## Python
 | Num | Title | Difficulty | Tag |
