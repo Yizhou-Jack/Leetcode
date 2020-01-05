@@ -11,7 +11,7 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 5 | Longest Palindromic Substring | Medium | Dynamic Programming |
 | 7 | Reverse Integer | Easy | Math |
 | 8 | String to Integer (atoi) | Medium | Math |
-| 10 | Regular Expression Matching | Hard | (UNDO) |
+| 10 | Regular Expression Matching | Hard | Dynamic Programming |
 | 11 | Container With Most Water | Medium | Dual Pointer |
 | 13 | Roman to Integer | Easy | Hash Table |
 | 14 | Longest Common Prefix | Easy | Math |
@@ -22,6 +22,8 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 21 | Merge Two Sorted Lists | Easy | Linked List |
 | 22 | Generate Parentheses | Medium | Recursion |
 | 23 | Merge K Sorted Lists | Hard | Recursion, Linked List |
+| 26 | Remove Duplicates from Sorted Array | Easy | Dual Pointer |
+| 28 | Implement strStr() | Easy | Dual Pointer (Using substring) |
 
 ## Python
 | Num | Title | Difficulty | Tag |
