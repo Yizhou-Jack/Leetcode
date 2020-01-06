@@ -24,7 +24,8 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 23 | Merge K Sorted Lists | Hard | Recursion, Linked List |
 | 26 | Remove Duplicates from Sorted Array | Easy | Dual Pointer |
 | 28 | Implement strStr() | Easy | Dual Pointer (Using substring) |
-| 29 | Divide Two Integers | Medium | (UNDO) |
+| 29 | Divide Two Integers | Medium | Recursion (Half PASS) |
+
 
 ## Python
 | Num | Title | Difficulty | Tag |
