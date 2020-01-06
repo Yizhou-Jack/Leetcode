@@ -25,7 +25,7 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 26 | Remove Duplicates from Sorted Array | Easy | Dual Pointer |
 | 28 | Implement strStr() | Easy | Dual Pointer (Using substring) |
 | 29 | Divide Two Integers | Medium | Recursion (Half PASS) |
-
+| 33 | Search in Rotated Sorted Array | Medium | Binary Search |
 
 ## Python
 | Num | Title | Difficulty | Tag |
