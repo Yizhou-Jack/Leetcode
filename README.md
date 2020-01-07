@@ -26,6 +26,11 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 28 | Implement strStr() | Easy | Dual Pointer (Using substring) |
 | 29 | Divide Two Integers | Medium | Recursion (Half PASS) |
 | 33 | Search in Rotated Sorted Array | Medium | Binary Search |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | Binary Search |
+| 36 | Valid Sudoku | Medium | Math |
+| 38 | Count and Say | Easy | Math |
+| 41 | First Missing Positive | Hard | VERY TRICKY |
+
 
 ## Python
 | Num | Title | Difficulty | Tag |
