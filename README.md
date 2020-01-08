@@ -33,6 +33,7 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 42 | Trapping Rain Water (接雨水) | Hard | Dynamic Programming |
 | 44 | Wildcard Matching (通配符匹配) | Hard | Iteration |
 | 46 | Permutations (全排列) | Medium | Recursion (Backtrack Algorithm) |
+| 48 | Rotate Image (旋转图像) | Medium | TRICKY |
 
 
 ## Python
