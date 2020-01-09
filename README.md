@@ -34,6 +34,8 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 44 | Wildcard Matching (通配符匹配) | Hard | Iteration |
 | 46 | Permutations (全排列) | Medium | Recursion (Backtrack Algorithm) |
 | 48 | Rotate Image (旋转图像) | Medium | TRICKY |
+| 49 | Group Anagrams (字母异位词分组) | Medium | Hash Table |
+| 50 | Pow(x, n) | Medium | Recursion |
 
 
 ## Python
