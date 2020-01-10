@@ -31,6 +31,13 @@ public class CommonTool {
     }
 
     /*
+    List<int[]>转为int[][]
+    */
+    public static int[][] ListIntArrToIntArrArr(List<int[]> input) {
+        return input.toArray(new int[0][]);
+    }
+
+    /*
     List转为string
     */
     public String listToString(List list, char separator) {

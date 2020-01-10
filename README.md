@@ -36,6 +36,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 48 | Rotate Image (旋转图像) | Medium | TRICKY |
 | 49 | Group Anagrams (字母异位词分组) | Medium | Hash Table |
 | 50 | Pow(x, n) | Medium | Recursion |
+| 53 | Maximum Subarray (最大子序和) | Easy | Dynamic Programming |
+| 54 | Spiral Matrix (螺旋矩阵) | Medium | Iteration (TRICKY) |
+| 55 | Jump Game (跳跃游戏) | Medium | Iteration |
+| 56 | Merge Intervals (合并区间) | Medium | Iteration (Override sort()) |
 
 
 ## Python
