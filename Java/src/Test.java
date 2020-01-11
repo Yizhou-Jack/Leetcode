@@ -1,7 +1,33 @@
 import java.util.Arrays;
 
 public class Test {
+
+    public static int searchInsertRightMedium(int[] nums, int target) {
+        int len = nums.length;
+
+        if (len == 0) {
+            return 0;
+        }
+
+        int left = 0;
+        int right = len - 1;
+        while (left < right) {
+            int mid = left + (right + 1 - left) / 2; //找右中位数
+            if (nums[mid] > target) {
+                right = mid - 1;
+            } else {
+                left = mid;
+            }
+        }
+        return left;
+    }
+
     public static void main(String[] args) {
+        int[] nums = new int[]{1,2,3,4,5,6,7,8,9};
+        int target = 4;
+        int res = searchInsertRightMedium(nums, target);
+        System.out.println(res);
+
         String s = "abcd";
         System.out.println(s.substring(0,4));
         System.out.println(Integer.MAX_VALUE-1);

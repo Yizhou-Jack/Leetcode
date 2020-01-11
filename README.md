@@ -40,6 +40,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 54 | Spiral Matrix (螺旋矩阵) | Medium | Iteration (TRICKY) |
 | 55 | Jump Game (跳跃游戏) | Medium | Iteration |
 | 56 | Merge Intervals (合并区间) | Medium | Iteration (Override sort()) |
+| 62 | Unique Paths (不同路径) | Medium | Math or Dynamic Programming |
+| 66 | Plus One (加一) | Easy | Math |
+| 69 | Sqrt(x) (x的平方根) | Easy | Binary Search or Newton's Method |
+| 70 | Climbing Stairs (爬楼梯) | Easy | Dynamic Programming |
 
 
 ## Python
