@@ -46,6 +46,7 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 70 | Climbing Stairs (爬楼梯) | Easy | Dynamic Programming |
 | 73 | Set Matrix Zeroes (矩阵置零) | Medium | Iteration |
 | 73 | Sort Colors (颜色分类) | Medium | Triple Pointer |
+| 76 | Minimum Window Substring (最小覆盖子串) | Hard | Dual Pointer (Sliding Window) |
 
 
 ## Python
