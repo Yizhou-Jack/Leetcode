@@ -44,6 +44,8 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 66 | Plus One (加一) | Easy | Math |
 | 69 | Sqrt(x) (x的平方根) | Easy | Binary Search or Newton's Method |
 | 70 | Climbing Stairs (爬楼梯) | Easy | Dynamic Programming |
+| 73 | Set Matrix Zeroes (矩阵置零) | Medium | Iteration |
+| 73 | Sort Colors (颜色分类) | Medium | Triple Pointer |
 
 
 ## Python
