@@ -6,7 +6,7 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | ------ | ------ | ------ | ------ |
 | 1 | Two Sum (两数之和) | Easy | Hash Table |
 | 2 | Add Two Numbers (两数相加) | Medium | Linked List |
-| 3 | Longest Substring Without Repeating Characters (无重复字符的最长子串) | Medium | Hash Table |
+| 3 | Longest Substring Without Repeating Characters (无重复字符的最长子串) | Medium | Dual Pointer (Sliding Window), Hash Table |
 | 4 | Median of Two Sorted Arrays (寻找两个有序数组的中位数) | Hard | Divide and Conquer |
 | 5 | Longest Palindromic Substring (最长回文子串) | Medium | Dynamic Programming |
 | 7 | Reverse Integer (整数反转) | Easy | Math |
@@ -47,6 +47,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 73 | Set Matrix Zeroes (矩阵置零) | Medium | Iteration |
 | 73 | Sort Colors (颜色分类) | Medium | Triple Pointer |
 | 76 | Minimum Window Substring (最小覆盖子串) | Hard | Dual Pointer (Sliding Window) |
+| 78 | Subsets (子集) | Medium | Recursion (Backtrack Algorithm) |
+| 79 | Word Search (单词搜索) | Medium | Recursion (Backtrack Algorithm) |
+| 84 | Largest Rectangle in Histogram (柱状图中最大的矩形) | Hard | Stack / Recursion |
+| 88 | Merge Sorted Array (合并两个有序数组) | Easy | Iteration |
 
 
 ## Python

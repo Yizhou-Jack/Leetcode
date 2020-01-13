@@ -24,6 +24,11 @@ public class Test {
 
     public static void main(String[] args) {
         int[] nums = new int[]{1,2,3,4,5,6,7,8,9};
+        int l = 1;
+        System.out.println(nums[l--]);
+        System.out.println(nums[--l]);
+
+
         int target = 4;
         int res = searchInsertRightMedium(nums, target);
         System.out.println(res);
