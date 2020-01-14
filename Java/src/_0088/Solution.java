@@ -1,5 +1,7 @@
 package _0088;
 
+import java.util.Arrays;
+
 public class Solution {
 
     /*
@@ -26,5 +28,14 @@ public class Solution {
         }
         //最后如果nums2还有额外的元素还没加进去，直接将剩余元素复制进nums1
         System.arraycopy(nums2, 0, nums1, 0, p2 + 1);
+    }
+
+    public static void main(String[] args) {
+        int[] nums1 = new int[]{1,2,3,0,0,0};
+        int[] nums2 = new int[]{2,3,4};
+        int m = 3;
+        int n = 3;
+        merge(nums1, m, nums2, n);
+        System.out.println(Arrays.toString(nums1));
     }
 }

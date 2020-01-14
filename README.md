@@ -51,6 +51,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 79 | Word Search (单词搜索) | Medium | Recursion (Backtrack Algorithm) |
 | 84 | Largest Rectangle in Histogram (柱状图中最大的矩形) | Hard | Stack / Recursion |
 | 88 | Merge Sorted Array (合并两个有序数组) | Easy | Iteration |
+| 91 | Decode Ways (解码方法) | Medium | Dynamic Programming |
+| 94 | Binary Tree Inorder Traversal (二叉树的中序遍历) | Medium | Recursion / Morris Traversal / Stack |
+| 98 | Validate Binary Search Tree (验证二叉搜索树) | Medium | Recursion / Stack / Inorder Traversal |
+| 101 | Symmetric Tree (对称二叉树) | Easy | Recursion |
 
 
 ## Python

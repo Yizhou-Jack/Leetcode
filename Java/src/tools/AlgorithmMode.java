@@ -1,5 +1,10 @@
 package tools;
 
+import structures.TreeNode;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class AlgorithmMode {
 
     /*
@@ -88,4 +93,37 @@ public class AlgorithmMode {
         }
     }
     */
+
+    /*
+    二叉树的遍历（递归方法）
+    */
+
+    public List<Integer> treeTraversal = new ArrayList<>();
+
+    public void inorder(TreeNode root) { //中序遍历
+        if (root == null) {
+            return;
+        }
+        inorder(root.left);
+        treeTraversal.add(root.val);
+        inorder(root.right);
+    }
+
+    public void preorder(TreeNode root) { //先序遍历
+        if (root == null) {
+            return;
+        }
+        treeTraversal.add(root.val);
+        inorder(root.left);
+        inorder(root.right);
+    }
+
+    public void postorder(TreeNode root) { //后序遍历
+        if (root == null) {
+            return;
+        }
+        inorder(root.left);
+        inorder(root.right);
+        treeTraversal.add(root.val);
+    }
 }
