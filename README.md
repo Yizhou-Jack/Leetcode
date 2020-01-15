@@ -55,6 +55,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 94 | Binary Tree Inorder Traversal (二叉树的中序遍历) | Medium | Recursion / Morris Traversal / Stack |
 | 98 | Validate Binary Search Tree (验证二叉搜索树) | Medium | Recursion / Stack / Inorder Traversal |
 | 101 | Symmetric Tree (对称二叉树) | Easy | Recursion |
+| 102 | Binary Tree Level Order Traversal (二叉树的层次遍历) | Medium | Recursion |
+| 103 | Binary Tree Zigzag Level Order Traversal (二叉树的锯齿形层次遍历) | Medium | Recursion |
+| 104 | Maximum Depth of Binary Tree (二叉树的最大深度) | Easy | Recursion |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal (从前序与中序遍历序列构造二叉树) | Medium | Recursion |
 
 
 ## Python
