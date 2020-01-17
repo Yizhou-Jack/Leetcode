@@ -63,6 +63,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 116 | Populating Next Right Pointers in Each Node (填充每个节点的下一个右侧节点指针) | Medium | Recursion |
 | 118 | Pascal's Triangle (杨辉三角) | Easy | Dynamic Programming |
 | 121 | Best Time to Buy and Sell Stock (买卖股票的最佳时机) | Easy | Dynamic Programming |
+| 122 | Best Time to Buy and Sell Stock II (买卖股票的最佳时机 II) | Easy | Dynamic Programming |
+| 124 | Binary Tree Maximum Path Sum (二叉树中的最大路径和) | Hard | Recursion |
+| 125 | Valid Palindrome (验证回文串) | Easy | Dual Pointer |
+| 127 | Word Ladder (单词接龙) | Medium | BFS (Queue) |
 
 
 ## Python
