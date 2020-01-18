@@ -67,6 +67,9 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 124 | Binary Tree Maximum Path Sum (二叉树中的最大路径和) | Hard | Recursion |
 | 125 | Valid Palindrome (验证回文串) | Easy | Dual Pointer |
 | 127 | Word Ladder (单词接龙) | Medium | BFS (Queue) |
+| 128 | Longest Consecutive Sequence (最长连续序列) | Hard | HashSet |
+| 130 | Surrounded Regions (被围绕的区域) | Medium | DFS / Union-Find |
+| 131 | Palindrome Partitioning (分割回文串) | Medium |  |
 
 
 ## Python
