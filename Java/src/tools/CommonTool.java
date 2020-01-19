@@ -19,4 +19,20 @@ public class CommonTool {
         char res = Character.toLowerCase(c);
         return res;
     }
+
+    /*
+    检查字符内的回文串（动态规划方法）
+    */
+    public boolean[][] checkHuiWen (String s) {
+        int len = s.length();
+        boolean[][] dp = new boolean[len][len];
+        for (int i = 0; i < len; i++) {
+            for (int j = 0; j <= i; j++) {
+                if (s.charAt(i) == s.charAt(j) && (i - j < 2 || dp[j + 1][i - 1])) {
+                    dp[j][i] = true;
+                }
+            }
+        }
+        return dp;
+    }
 }

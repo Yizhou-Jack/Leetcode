@@ -69,7 +69,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 127 | Word Ladder (单词接龙) | Medium | BFS (Queue) |
 | 128 | Longest Consecutive Sequence (最长连续序列) | Hard | HashSet |
 | 130 | Surrounded Regions (被围绕的区域) | Medium | DFS / Union-Find |
-| 131 | Palindrome Partitioning (分割回文串) | Medium |  |
+| 131 | Palindrome Partitioning (分割回文串) | Medium | (UNDO) |
+| 134 | Gas Station (加油站) | Medium | Iteration |
+| 136 | Single Number (只出现一次的数字) | Easy | HashMap / Iteration |
+| 138 | Copy List with Random Pointer (复制带随机指针的链表) | Medium | Linked List |
 
 
 ## Python
