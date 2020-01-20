@@ -1,9 +1,19 @@
 package tools;
 
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 public class TransformTool {
+
+    /*
+    List转为HashSet：快速判断list中是否存在某值（用contains）
+    */
+    public static Set<String> ListToSet(List<String> strList) {
+        Set<String> res = new HashSet(strList);
+        return res;
+    }
 
     /*
     int[]转为String

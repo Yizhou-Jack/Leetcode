@@ -73,6 +73,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 134 | Gas Station (加油站) | Medium | Iteration |
 | 136 | Single Number (只出现一次的数字) | Easy | HashMap / Iteration |
 | 138 | Copy List with Random Pointer (复制带随机指针的链表) | Medium | Linked List |
+| 139 | Word Break (单词拆分) | Medium | BFS (Queue) |
+| 141 | Linked List Cycle (环形链表) | Easy | Linked List / Dual Pointer |
+| 146 | LRU Cache (LRU缓存机制) | Medium | LinkedHashMap |
+| 148 | Sort List (排序链表) | Medium | Dual Pointer, Recursion |
 
 
 ## Python
