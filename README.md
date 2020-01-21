@@ -77,6 +77,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 141 | Linked List Cycle (环形链表) | Easy | Linked List / Dual Pointer |
 | 146 | LRU Cache (LRU缓存机制) | Medium | LinkedHashMap |
 | 148 | Sort List (排序链表) | Medium | Dual Pointer, Recursion |
+| 150 | Evaluate Reverse Polish Notation (逆波兰表达式求值) | Medium | Stack |
+| 152 | Maximum Product Subarray (乘积最大子序列) | Medium | Dynamic Programming |
+| 155 | Min Stack (最小栈) | Easy | Stack |
+| 160 | Intersection of Two Linked Lists (相交链表) | Easy | Dual Pointer |
 
 
 ## Python
