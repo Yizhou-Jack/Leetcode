@@ -81,6 +81,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 152 | Maximum Product Subarray (乘积最大子序列) | Medium | Dynamic Programming |
 | 155 | Min Stack (最小栈) | Easy | Stack |
 | 160 | Intersection of Two Linked Lists (相交链表) | Easy | Dual Pointer |
+| 162 | Find Peak Element (寻找峰值) | Medium | Binary Search |
+| 169 | Majority Element (多数元素) | Easy | HashMap / Boyer-Moore Vote |
+| 171 | Excel Sheet Column Number (Excel表列序号) | Easy | Iteration |
+| 172 | Factorial Trailing Zeroes (阶乘后的零) | Easy |  |
 
 
 ## Python

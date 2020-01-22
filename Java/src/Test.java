@@ -23,6 +23,13 @@ public class Test {
     }
 
     public static void main(String[] args) {
+        int aa = 3;
+        int bb = 10;
+        int cc = 11;
+        System.out.println(aa/10);
+        System.out.println(bb/10);
+        System.out.println(cc/10);
+
         int[] nums = new int[]{1,2,3,4,5,6,7,8,9};
         int l = 1;
         System.out.println(nums[l--]);
