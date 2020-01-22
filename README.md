@@ -84,7 +84,7 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 162 | Find Peak Element (寻找峰值) | Medium | Binary Search |
 | 169 | Majority Element (多数元素) | Easy | HashMap / Boyer-Moore Vote |
 | 171 | Excel Sheet Column Number (Excel表列序号) | Easy | Iteration |
-| 172 | Factorial Trailing Zeroes (阶乘后的零) | Easy |  |
+| 172 | Factorial Trailing Zeroes (阶乘后的零) | Easy | Math |
 
 
 ## Python
