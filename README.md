@@ -85,6 +85,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 169 | Majority Element (多数元素) | Easy | HashMap / Boyer-Moore Vote |
 | 171 | Excel Sheet Column Number (Excel表列序号) | Easy | Iteration |
 | 172 | Factorial Trailing Zeroes (阶乘后的零) | Easy | Math |
+| 179 | Largest Number (最大数) | Medium | Override Comparator |
+| 189 | Rotate Array (旋转数组) | Easy | Iteration |
+| 190 | Reverse Bits (颠倒二进制位) | Easy | Bit Operation |
+| 191 | Number of 1 Bits (位1的个数) | Easy | Bit Operation |
 
 
 ## Python
