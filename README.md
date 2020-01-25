@@ -89,6 +89,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 189 | Rotate Array (旋转数组) | Easy | Iteration |
 | 190 | Reverse Bits (颠倒二进制位) | Easy | Bit Operation |
 | 191 | Number of 1 Bits (位1的个数) | Easy | Bit Operation |
+| 198 | House Robber (打家劫舍) | Easy | Dynamic Programming |
+| 200 | Number of Islands (岛屿数量) | Medium | DFS / BFS / Union-Find (UNDO) |
+| 202 | Happy Number (快乐数) | Easy | Iteration / Math |
+| 204 | Count Primes (计数质数) | Easy | Check Prime / Eratosthenes Method |
 
 
 ## Python
