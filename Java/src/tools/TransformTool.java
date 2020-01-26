@@ -1,11 +1,21 @@
 package tools;
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 public class TransformTool {
+
+    /*
+    List<Integer>转为int[]
+    */
+    public static int[] convertIntegers(List<Integer> integers){
+        int[] ret = new int[integers.size()];
+        Iterator<Integer> iterator = integers.iterator();
+        for (int i = 0; i < ret.length; i++)
+        {
+            ret[i] = iterator.next().intValue();
+        }
+        return ret;
+    }
 
     /*
     List转为HashSet：快速判断list中是否存在某值（用contains）

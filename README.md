@@ -93,6 +93,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 200 | Number of Islands (岛屿数量) | Medium | DFS / BFS / Union-Find (UNDO) |
 | 202 | Happy Number (快乐数) | Easy | Iteration / Math |
 | 204 | Count Primes (计数质数) | Easy | Check Prime / Eratosthenes Method |
+| 206 | Reverse Linked List (反转链表) | Easy | Iteration |
+| 207 | Course Schedule (课程表) | Medium | BFS |
+| 208 | 实现 Trie (前缀树) | Medium | Trie |
+| 210 | Course Schedule II (课程表 II) | Medium | BFS |
 
 
 ## Python
