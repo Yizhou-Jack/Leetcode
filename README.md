@@ -97,6 +97,11 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 207 | Course Schedule (课程表) | Medium | BFS |
 | 208 | 实现 Trie (前缀树) | Medium | Trie |
 | 210 | Course Schedule II (课程表 II) | Medium | BFS |
+| 215 | Kth Largest Element in an Array (数组中的第K个最大元素) | Medium | Heap |
+| 217 | Contains Duplicate (存在重复元素) | Easy | Iteration / HashSet |
+| 227 | Basic Calculator II (基本计算器 II) | Medium | Stack |
+| 230 | Kth Smallest Element in a BST (二叉搜索树中第K小的元素) | Medium | Recursion / Iteration |
+
 
 
 ## Python

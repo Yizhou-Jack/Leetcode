@@ -23,6 +23,10 @@ public class Test {
     }
 
     public static void main(String[] args) {
+        int ii = 1;
+        System.out.println(++ii);
+        System.out.println(ii);
+
         int mask = 1;
         int mask1 = mask << 1;
         int mask2 = mask1 << 1;
