@@ -101,7 +101,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 217 | Contains Duplicate (存在重复元素) | Easy | Iteration / HashSet |
 | 227 | Basic Calculator II (基本计算器 II) | Medium | Stack |
 | 230 | Kth Smallest Element in a BST (二叉搜索树中第K小的元素) | Medium | Recursion / Iteration |
-
+| 234 | Palindrome Linked List (回文链表) | Easy | Dual Pointer |
+| 236 | Lowest Common Ancestor of a Binary Tree (二叉树的最近公共祖先) | Medium | Recursion |
+| 237 | Delete Node in a Linked List (删除链表中的节点) | Easy | TRICKY |
+| 238 | Product of Array Except Self (除自身以外数组的乘积) | Medium | Iteration |
 
 
 ## Python
