@@ -23,6 +23,9 @@ public class Test {
     }
 
     public static void main(String[] args) {
+        boolean[] hasCheck = new boolean[5];
+        System.out.println(hasCheck[0]);
+
         int ii = 1;
         System.out.println(++ii);
         System.out.println(ii);

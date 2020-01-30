@@ -105,6 +105,8 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 236 | Lowest Common Ancestor of a Binary Tree (二叉树的最近公共祖先) | Medium | Recursion |
 | 237 | Delete Node in a Linked List (删除链表中的节点) | Easy | TRICKY |
 | 238 | Product of Array Except Self (除自身以外数组的乘积) | Medium | Iteration |
+| 239 | Sliding Window Maximum (滑动窗口最大值) | Hard | Dynamic Programming |
+| 240 | Search a 2D Matrix II (搜索二维矩阵 II) | Medium | BFS / Dual Pointer |
 
 
 ## Python
