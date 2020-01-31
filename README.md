@@ -109,6 +109,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 240 | Search a 2D Matrix II (搜索二维矩阵 II) | Medium | BFS / Dual Pointer |
 | 242 | Valid Anagram (有效的字母异位词) | Easy | Hash Table |
 | 268 | Missing Number (缺失数字) | Easy | Math |
+| 279 | Perfect Squares (完全平方数) | Medium | Dynamic Programming |
+| 283 | Move Zeroes (移动零) | Easy | Iteration / Dual Pointer |
+| 287 | Find the Duplicate Number (寻找重复数) | Medium | Iteration (TRICKY like No.142) |
+| 289 | Game of Life (生命游戏) | Medium | Iteration |
 
 
 ## Python
