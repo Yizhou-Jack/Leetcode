@@ -107,6 +107,8 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 238 | Product of Array Except Self (除自身以外数组的乘积) | Medium | Iteration |
 | 239 | Sliding Window Maximum (滑动窗口最大值) | Hard | Dynamic Programming |
 | 240 | Search a 2D Matrix II (搜索二维矩阵 II) | Medium | BFS / Dual Pointer |
+| 242 | Valid Anagram (有效的字母异位词) | Easy | Hash Table |
+| 268 | Missing Number (缺失数字) | Easy | Math |
 
 
 ## Python
