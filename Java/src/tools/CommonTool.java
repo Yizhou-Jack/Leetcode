@@ -1,6 +1,15 @@
 package tools;
 
+import java.util.Arrays;
+
 public class CommonTool {
+
+    /*
+    获取int[]中的max值
+    */
+    public static int MAX(int[] arr) {
+        return Arrays.stream(arr).max().getAsInt();
+    }
 
     /*
     判断char是否为字母或者是数字

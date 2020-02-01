@@ -113,6 +113,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 283 | Move Zeroes (移动零) | Easy | Iteration / Dual Pointer |
 | 287 | Find the Duplicate Number (寻找重复数) | Medium | Iteration (TRICKY like No.142) |
 | 289 | Game of Life (生命游戏) | Medium | Iteration |
+| 300 | Longest Increasing Subsequence (最长上升子序列) | Medium | Dynamic Programming & Binary Search |
+| 315 | Count of Smaller Numbers After Self (计算右侧小于当前元素的个数) | Hard | Search Tree |
+| 322 | Coin Change (零钱兑换) | Medium | Dynamic Programming |
+| 324 | Wiggle Sort II (摆动排序 II) | Medium | Iteration |
 
 
 ## Python

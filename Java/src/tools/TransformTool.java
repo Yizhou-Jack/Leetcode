@@ -1,8 +1,17 @@
 package tools;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class TransformTool {
+
+    /*
+    int[]转为List<Integer>
+    */
+    public static List<Integer> convertIntegers(int[] ints){
+        List<Integer> list = Arrays.stream(ints).boxed().collect(Collectors.toList());
+        return list;
+    }
 
     /*
     List<Integer>转为int[]
