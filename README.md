@@ -117,6 +117,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 315 | Count of Smaller Numbers After Self (计算右侧小于当前元素的个数) | Hard | Search Tree |
 | 322 | Coin Change (零钱兑换) | Medium | Dynamic Programming |
 | 324 | Wiggle Sort II (摆动排序 II) | Medium | Iteration |
+| 326 | Power of Three (3的幂) | Easy | Math |
+| 328 | Odd Even Linked List (奇偶链表) | Medium | Linked List |
+| 329 | Longest Increasing Path in a Matrix (矩阵中的最长递增路径) | Hard | DFS |
+| 334 | Increasing Triplet Subsequence (递增的三元子序列) | Medium | Iteration |
 
 
 ## Python
