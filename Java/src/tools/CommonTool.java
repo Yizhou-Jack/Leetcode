@@ -1,8 +1,27 @@
 package tools;
 
-import java.util.Arrays;
+import java.util.*;
 
 public class CommonTool {
+
+    /*
+    map中的值升序排列和降序排列
+    */
+    public static Map<Integer, Integer> sortMap(Map<Integer, Integer> map) {
+        List<Map.Entry<Integer, Integer>> list = new ArrayList<>(map.entrySet());
+        Collections.sort(list, new Comparator<Map.Entry<Integer, Integer>>() {
+            @Override
+            public int compare(Map.Entry<Integer, Integer> o1, Map.Entry<Integer, Integer> o2) {
+                int compare = (o1.getValue()).compareTo(o2.getValue());
+                return compare; //升序排列 //降序排列则是-compare
+            }
+        });
+        Map<Integer, Integer> returnMap = new LinkedHashMap<>();
+        for (Map.Entry<Integer, Integer> entry : list) {
+            returnMap.put(entry.getKey(), entry.getValue());
+        }
+        return returnMap;
+    }
 
     /*
     获取int[]中的max值

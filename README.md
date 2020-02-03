@@ -121,6 +121,11 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 328 | Odd Even Linked List (奇偶链表) | Medium | Linked List |
 | 329 | Longest Increasing Path in a Matrix (矩阵中的最长递增路径) | Hard | DFS |
 | 334 | Increasing Triplet Subsequence (递增的三元子序列) | Medium | Iteration |
+| 344 | Reverse String (反转字符串) | Easy | Dual Pointer |
+| 347 | Top K Frequent Elements (前K个高频元素) | Medium | Heap |
+| 350 | Intersection of Two Arrays II (两个数组的交集 II) | Easy | Dual Pointer |
+| 378 | Kth Smallest Element in a Sorted Matrix (有序矩阵中第K小的元素) | Medium | Binary Search |
+| 380 | Insert Delete GetRandom O(1) (常数时间插入、删除和获取随机元素) | Medium | RandomizedSet |
 
 
 ## Python
