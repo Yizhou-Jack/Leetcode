@@ -126,6 +126,11 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 350 | Intersection of Two Arrays II (两个数组的交集 II) | Easy | Dual Pointer |
 | 378 | Kth Smallest Element in a Sorted Matrix (有序矩阵中第K小的元素) | Medium | Binary Search |
 | 380 | Insert Delete GetRandom O(1) (常数时间插入、删除和获取随机元素) | Medium | RandomizedSet |
+| 384 | Shuffle an Array (打乱数组) | Medium | Shuffle an Array |
+| 387 | First Unique Character in a String (字符串中的第一个唯一字符) | Easy | HashMap |
+| 395 | Longest Substring with At Least K Repeating Characters (至少有K个重复字符的最长子串) | Medium | Recursion |
+| 412 | Fizz Buzz | Easy | Iteration |
+| 454 | 4Sum II (四数相加 II) | Medium | HashMap |
 
 
 ## Python

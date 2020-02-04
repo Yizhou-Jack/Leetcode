@@ -5,6 +5,14 @@ import java.util.*;
 public class CommonTool {
 
     /*
+    复制int[]
+    */
+    public static int[] copyIntArr(int[] intArr) {
+        int[] res = intArr.clone();
+        return res;
+    }
+
+    /*
     map中的值升序排列和降序排列
     */
     public static Map<Integer, Integer> sortMap(Map<Integer, Integer> map) {
