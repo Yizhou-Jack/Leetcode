@@ -25,10 +25,13 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 26 | Remove Duplicates from Sorted Array (删除排序数组中的重复项) | Easy | Dual Pointer |
 | 28 | Implement strStr() (实现 strStr()) | Easy | Dual Pointer (Using substring) |
 | 29 | Divide Two Integers (两数相除) | Medium | Recursion (Half PASS) |
+| 31 | Next Permutation (下一个排列) | Medium | Iteration |
+| 32 | Longest Valid Parentheses (最长有效括号) | Hard | Stack / Iteration |
 | 33 | Search in Rotated Sorted Array (搜索旋转排序数组) | Medium | Binary Search |
 | 34 | Find First and Last Position of Element in Sorted Array (在排序数组中查找元素的第一个和最后一个位置) | Medium | Binary Search |
 | 36 | Valid Sudoku (有效的数独) | Medium | Math |
 | 38 | Count and Say (外观数列) | Easy | Math |
+| 39 | Combination Sum (组合总和) | Medium | Recursion (Backtrack Algorithm) |
 | 41 | First Missing Positive (缺失的第一个正数) | Hard | VERY TRICKY |
 | 42 | Trapping Rain Water (接雨水) | Hard | Dynamic Programming |
 | 44 | Wildcard Matching (通配符匹配) | Hard | Iteration |
@@ -40,7 +43,8 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 54 | Spiral Matrix (螺旋矩阵) | Medium | Iteration (TRICKY) |
 | 55 | Jump Game (跳跃游戏) | Medium | Iteration |
 | 56 | Merge Intervals (合并区间) | Medium | Iteration (Override sort()) |
-| 62 | Unique Paths (不同路径) | Medium | Math or Dynamic Programming |
+| 62 | Unique Paths (不同路径) | Medium | Math / Dynamic Programming |
+| 64 | Minimum Path Sum (最小路径和) | Medium | Dynamic Programming |
 | 66 | Plus One (加一) | Easy | Math |
 | 69 | Sqrt(x) (x的平方根) | Easy | Binary Search or Newton's Method |
 | 70 | Climbing Stairs (爬楼梯) | Easy | Dynamic Programming |
