@@ -79,6 +79,7 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 138 | Copy List with Random Pointer (复制带随机指针的链表) | Medium | Linked List |
 | 139 | Word Break (单词拆分) | Medium | BFS (Queue) |
 | 141 | Linked List Cycle (环形链表) | Easy | Linked List / Dual Pointer |
+| 142 | Linked List Cycle II (环形链表 II) | Medium | Iteration (TRICKY like No.287) |
 | 146 | LRU Cache (LRU缓存机制) | Medium | LinkedHashMap |
 | 148 | Sort List (排序链表) | Medium | Dual Pointer, Recursion |
 | 150 | Evaluate Reverse Polish Notation (逆波兰表达式求值) | Medium | Stack |
@@ -103,6 +104,8 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 210 | Course Schedule II (课程表 II) | Medium | BFS |
 | 215 | Kth Largest Element in an Array (数组中的第K个最大元素) | Medium | Heap |
 | 217 | Contains Duplicate (存在重复元素) | Easy | Iteration / HashSet |
+| 221 | Maximal Square (最大正方形) | Medium | Dynamic Programming |
+| 226 | Invert Binary Tree (翻转二叉树) | Easy | Recursion |
 | 227 | Basic Calculator II (基本计算器 II) | Medium | Stack |
 | 230 | Kth Smallest Element in a BST (二叉搜索树中第K小的元素) | Medium | Recursion / Iteration |
 | 234 | Palindrome Linked List (回文链表) | Easy | Dual Pointer |
@@ -118,6 +121,7 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 287 | Find the Duplicate Number (寻找重复数) | Medium | Iteration (TRICKY like No.142) |
 | 289 | Game of Life (生命游戏) | Medium | Iteration |
 | 300 | Longest Increasing Subsequence (最长上升子序列) | Medium | Dynamic Programming & Binary Search |
+| 301 | Remove Invalid Parentheses (删除无效的括号) | Hard |  |
 | 315 | Count of Smaller Numbers After Self (计算右侧小于当前元素的个数) | Hard | Search Tree |
 | 322 | Coin Change (零钱兑换) | Medium | Dynamic Programming |
 | 324 | Wiggle Sort II (摆动排序 II) | Medium | Iteration |
