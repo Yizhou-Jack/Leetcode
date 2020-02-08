@@ -122,6 +122,7 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 289 | Game of Life (生命游戏) | Medium | Iteration |
 | 300 | Longest Increasing Subsequence (最长上升子序列) | Medium | Dynamic Programming & Binary Search |
 | 301 | Remove Invalid Parentheses (删除无效的括号) | Hard |  |
+
 | 315 | Count of Smaller Numbers After Self (计算右侧小于当前元素的个数) | Hard | Search Tree |
 | 322 | Coin Change (零钱兑换) | Medium | Dynamic Programming |
 | 324 | Wiggle Sort II (摆动排序 II) | Medium | Iteration |
@@ -138,6 +139,7 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 387 | First Unique Character in a String (字符串中的第一个唯一字符) | Easy | HashMap |
 | 395 | Longest Substring with At Least K Repeating Characters (至少有K个重复字符的最长子串) | Medium | Recursion |
 | 412 | Fizz Buzz | Easy | Iteration |
+| 448 | Find All Numbers Disappeared in an Array (找到所有数组中消失的数字) | Easy | Iteration |
 | 454 | 4Sum II (四数相加 II) | Medium | HashMap |
 
 
