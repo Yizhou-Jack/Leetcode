@@ -11,11 +11,13 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 5 | Longest Palindromic Substring (最长回文子串) | Medium | Dynamic Programming |
 | 7 | Reverse Integer (整数反转) | Easy | Math |
 | 8 | String to Integer (atoi) (字符串转换整数) | Medium | Math |
+| 9 | Palindrome Number (回文数) | Easy | Iteration |
 | 10 | Regular Expression Matching (正则表达式匹配) | Hard | Dynamic Programming |
 | 11 | Container With Most Water (盛最多水的容器) | Medium | Dual Pointer |
 | 13 | Roman to Integer (罗马数字转整数) | Easy | Hash Table |
 | 14 | Longest Common Prefix (最长公共前缀) | Easy | Math |
 | 15 | Three Sum (三数之和) | Medium | Dual Pointer |
+| 16 | 3Sum Closest (最接近的三数之和) | Medium | Dual Pointer |
 | 17 | Letter Combinations of a Phone Number (电话号码的字母组合) | Medium | Recursion |
 | 19 | Remove Nth Node From End of List (删除链表的倒数第N个节点) | Medium | Linked List |
 | 20 | Valid Parentheses (有效的括号) | Easy | Stack |
@@ -43,6 +45,8 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 54 | Spiral Matrix (螺旋矩阵) | Medium | Iteration (TRICKY) |
 | 55 | Jump Game (跳跃游戏) | Medium | Iteration |
 | 56 | Merge Intervals (合并区间) | Medium | Iteration (Override sort()) |
+| 59 | Spiral Matrix II (螺旋矩阵 II) | Medium | Iteration (TRICKY) like No. 54 |
+| 61 | Rotate List (旋转链表) | Medium | Linked List |
 | 62 | Unique Paths (不同路径) | Medium | Math / Dynamic Programming |
 | 64 | Minimum Path Sum (最小路径和) | Medium | Dynamic Programming |
 | 66 | Plus One (加一) | Easy | Math |
@@ -108,7 +112,9 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 226 | Invert Binary Tree (翻转二叉树) | Easy | Recursion |
 | 227 | Basic Calculator II (基本计算器 II) | Medium | Stack |
 | 230 | Kth Smallest Element in a BST (二叉搜索树中第K小的元素) | Medium | Recursion / Iteration |
+| 231 | Power of Two (2的幂) | Easy | Iteration |
 | 234 | Palindrome Linked List (回文链表) | Easy | Dual Pointer |
+| 235 | Lowest Common Ancestor of a Binary Search Tree (二叉搜索树的最近公共祖先) | Easy | Recursion / Iteration |
 | 236 | Lowest Common Ancestor of a Binary Tree (二叉树的最近公共祖先) | Medium | Recursion |
 | 237 | Delete Node in a Linked List (删除链表中的节点) | Easy | TRICKY |
 | 238 | Product of Array Except Self (除自身以外数组的乘积) | Medium | Iteration |
@@ -120,9 +126,8 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 283 | Move Zeroes (移动零) | Easy | Iteration / Dual Pointer |
 | 287 | Find the Duplicate Number (寻找重复数) | Medium | Iteration (TRICKY like No.142) |
 | 289 | Game of Life (生命游戏) | Medium | Iteration |
+| 292 | Nim Game (Nim游戏) | Easy | Math |
 | 300 | Longest Increasing Subsequence (最长上升子序列) | Medium | Dynamic Programming & Binary Search |
-| 301 | Remove Invalid Parentheses (删除无效的括号) | Hard |  |
-
 | 315 | Count of Smaller Numbers After Self (计算右侧小于当前元素的个数) | Hard | Search Tree |
 | 322 | Coin Change (零钱兑换) | Medium | Dynamic Programming |
 | 324 | Wiggle Sort II (摆动排序 II) | Medium | Iteration |
@@ -141,6 +146,7 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 412 | Fizz Buzz | Easy | Iteration |
 | 448 | Find All Numbers Disappeared in an Array (找到所有数组中消失的数字) | Easy | Iteration |
 | 454 | 4Sum II (四数相加 II) | Medium | HashMap |
+| 557 | Reverse Words in a String III (反转字符串中的单词 III) | Easy | HashMap |
 
 
 ## Python
