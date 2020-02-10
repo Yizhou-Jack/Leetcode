@@ -58,9 +58,11 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 78 | Subsets (子集) | Medium | Recursion (Backtrack Algorithm) |
 | 79 | Word Search (单词搜索) | Medium | Recursion (Backtrack Algorithm) |
 | 84 | Largest Rectangle in Histogram (柱状图中最大的矩形) | Hard | Stack / Recursion |
+| 85 | Maximal Rectangle (最大矩形) | Hard | Stack (Like No.84) |
 | 88 | Merge Sorted Array (合并两个有序数组) | Easy | Iteration |
 | 91 | Decode Ways (解码方法) | Medium | Dynamic Programming |
 | 94 | Binary Tree Inorder Traversal (二叉树的中序遍历) | Medium | Recursion / Morris Traversal / Stack |
+| 96 | Unique Binary Search Trees (不同的二叉搜索树) | Medium | Dynamic Programming |
 | 98 | Validate Binary Search Tree (验证二叉搜索树) | Medium | Recursion / Stack / Inorder Traversal |
 | 101 | Symmetric Tree (对称二叉树) | Easy | Recursion |
 | 102 | Binary Tree Level Order Traversal (二叉树的层次遍历) | Medium | Recursion / Queue |
@@ -68,6 +70,7 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 104 | Maximum Depth of Binary Tree (二叉树的最大深度) | Easy | Recursion |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal (从前序与中序遍历序列构造二叉树) | Medium | Recursion |
 | 108 | Convert Sorted Array to Binary Search Tree (将有序数组转换为二叉搜索树) | Easy | Recursion |
+| 114 | Flatten Binary Tree to Linked List (二叉树展开为链表) | Medium | Iteration |
 | 116 | Populating Next Right Pointers in Each Node (填充每个节点的下一个右侧节点指针) | Medium | Recursion |
 | 118 | Pascal's Triangle (杨辉三角) | Easy | Dynamic Programming |
 | 121 | Best Time to Buy and Sell Stock (买卖股票的最佳时机) | Easy | Dynamic Programming |
@@ -135,6 +138,7 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 328 | Odd Even Linked List (奇偶链表) | Medium | Linked List |
 | 329 | Longest Increasing Path in a Matrix (矩阵中的最长递增路径) | Hard | DFS |
 | 334 | Increasing Triplet Subsequence (递增的三元子序列) | Medium | Iteration |
+| 337 | House Robber III (打家劫舍 III) | Medium | Recursion |
 | 344 | Reverse String (反转字符串) | Easy | Dual Pointer |
 | 347 | Top K Frequent Elements (前K个高频元素) | Medium | Heap |
 | 350 | Intersection of Two Arrays II (两个数组的交集 II) | Easy | Dual Pointer |
