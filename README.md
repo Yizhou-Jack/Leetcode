@@ -151,6 +151,10 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 448 | Find All Numbers Disappeared in an Array (找到所有数组中消失的数字) | Easy | Iteration |
 | 454 | 4Sum II (四数相加 II) | Medium | HashMap |
 | 557 | Reverse Words in a String III (反转字符串中的单词 III) | Easy | HashMap |
+| 617 | Merge Two Binary Trees (合并二叉树) | Easy | Recursion |
+| 621 | Task Scheduler (任务调度器) | Medium | PriorityQueue / Design |
+| 647 | Palindromic Substrings (回文子串) | Medium | Iteration |
+| 739 | Daily Temperatures (每日温度) | Medium | Stack |
 
 
 ## Python
