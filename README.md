@@ -150,7 +150,12 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 412 | Fizz Buzz | Easy | Iteration |
 | 448 | Find All Numbers Disappeared in an Array (找到所有数组中消失的数字) | Easy | Iteration |
 | 454 | 4Sum II (四数相加 II) | Medium | HashMap |
+| 494 | Target Sum (目标和) | Medium |  |
+| 538 | Convert BST to Greater Tree (把二叉搜索树转换为累加树) | Easy | Recursion |
+| 543 | Diameter of Binary Tree (二叉树的直径) | Easy | Recursion |
 | 557 | Reverse Words in a String III (反转字符串中的单词 III) | Easy | HashMap |
+| 560 | Subarray Sum Equals K (和为K的子数组) | Medium | HashMap |
+| 581 | Shortest Unsorted Continuous Subarray (最短无序连续子数组) | Easy | Iteration |
 | 617 | Merge Two Binary Trees (合并二叉树) | Easy | Recursion |
 | 621 | Task Scheduler (任务调度器) | Medium | PriorityQueue / Design |
 | 647 | Palindromic Substrings (回文子串) | Medium | Iteration |
