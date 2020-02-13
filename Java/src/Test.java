@@ -23,60 +23,11 @@ public class Test {
     }
 
     public static void main(String[] args) {
-        boolean[] hasCheck = new boolean[5];
-        System.out.println(hasCheck[0]);
-
-        int ii = 1;
-        System.out.println(++ii);
-        System.out.println(ii);
-
-        int mask = 1;
-        int mask1 = mask << 1;
-        int mask2 = mask1 << 1;
-        System.out.println(mask1);
-        System.out.println(mask2);
-
-        int aa = 3;
-        int bb = 10;
-        int cc = 11;
-        System.out.println(aa/10);
-        System.out.println(bb/10);
-        System.out.println(cc/10);
-
-        int[] nums = new int[]{1,2,3,4,5,6,7,8,9};
-        int l = 1;
-        System.out.println(nums[l--]);
-        System.out.println(nums[--l]);
-
-
-        int target = 4;
-        int res = searchInsertRightMedium(nums, target);
-        System.out.println(res);
-
-        String s = "abcd";
-        System.out.println(s.substring(0,4));
-        System.out.println(Integer.MAX_VALUE-1);
-        int left = 1;
-        int leftRes = left;
-        left = 0;
-        System.out.println(left);
-        System.out.println(leftRes);
-        int k = (5+6)/2;
-        System.out.println(k);
-        int[][] rows = new int[9][];
-        int[][] columns = new int[9][];
-        int[][] boxes = new int[9][];
-        for (int i = 0; i < 9; i++) {
-            rows[i] = new int[9];
-            columns[i] = new int[9];
-            boxes[i] = new int[9];
-        }
-        System.out.println(Arrays.toString(rows[1]));
-        String phase = "1";
-        String tmp = phase;
-        phase = "";
-        System.out.println("----------");
-        System.out.println(phase);
-        System.out.println(tmp);
+        System.out.println(Integer.MAX_VALUE);
+        System.out.println(Integer.MIN_VALUE);
+        char a = 'a';
+        char b = 'b';
+        System.out.println(a-'a');
+        System.out.println(b-'a');
     }
 }

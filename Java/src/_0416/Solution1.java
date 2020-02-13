@@ -1,18 +1,13 @@
-package _0494;
+package _0416;
 
 public class Solution1 {
 
-    /*
-    dp[i][j]表示前i个数和为j的方法数为dp[i][j]
-    dp[i][j]=dp[i-1][i-nums[i-1]] + dp[i-1][i+nums[i-1]];
-    */
-
-    public static int findTargetSumWays(int[] nums, int S) {
+    public static boolean canPartition(int[] nums) {
         int sum = 0;
         for (int n : nums) {
             sum += n;
         }
-        if (S < -sum || S > sum) return 0;
+        if (sum%2 != 0) return false;
 
         int[][] dp = new int[nums.length + 1][2*sum + 1];
         dp[0][0+sum] = 1; //0个数字合为0的方法数为1。0+sum代表和为0, 0代表和为-sum
@@ -24,15 +19,16 @@ public class Solution1 {
                 if (j - nums[i-1] >= 0) {
                     dp[i][j] += dp[i-1][j - nums[i-1]];
                 }
+                if (dp[nums.length][sum] != 0) return true;
             }
         }
-        return dp[nums.length][sum+S];
+        //System.out.println(dp[nums.length][sum]);
+        return dp[nums.length][sum] != 0;
     }
 
     public static void main(String[] args) {
-        int[] nums = new int[]{1,1,1,1,1};
-        int res = findTargetSumWays(nums, 3);
+        int[] nums = new int[]{100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100};
+        boolean res = canPartition(nums);
         System.out.println(res);
     }
-
 }

@@ -148,9 +148,12 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 387 | First Unique Character in a String (字符串中的第一个唯一字符) | Easy | HashMap |
 | 395 | Longest Substring with At Least K Repeating Characters (至少有K个重复字符的最长子串) | Medium | Recursion |
 | 412 | Fizz Buzz | Easy | Iteration |
+| 416 | Partition Equal Subset Sum (分割等和子集) | Medium | Dynamic Programming (背包问题) |
+| 437 | Path Sum III (路径总和 III) | Easy | Double Recursion (Hard) |
+| 438 | Find All Anagrams in a String (找到字符串中所有字母异位词) | Medium | Dual Pointer (Sliding Window) |
 | 448 | Find All Numbers Disappeared in an Array (找到所有数组中消失的数字) | Easy | Iteration |
 | 454 | 4Sum II (四数相加 II) | Medium | HashMap |
-| 494 | Target Sum (目标和) | Medium |  |
+| 494 | Target Sum (目标和) | Medium | Dynamic Programming (背包问题) |
 | 538 | Convert BST to Greater Tree (把二叉搜索树转换为累加树) | Easy | Recursion |
 | 543 | Diameter of Binary Tree (二叉树的直径) | Easy | Recursion |
 | 557 | Reverse Words in a String III (反转字符串中的单词 III) | Easy | HashMap |
