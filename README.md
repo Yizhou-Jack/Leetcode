@@ -1,7 +1,7 @@
-# Leetcode
-Use java and python to solve Leetcode problems (Top interview questions).
+# Leetcode-Java
+Use Java to solve Leetcode&JianZhiOffer problems.
 
-## Java
+## Leetcode
 | Num | Title | Difficulty | Tag |
 | ------ | ------ | ------ | ------ |
 | 1 | Two Sum (两数之和) | Easy | Hash Table |
@@ -163,9 +163,15 @@ Use java and python to solve Leetcode problems (Top interview questions).
 | 621 | Task Scheduler (任务调度器) | Medium | PriorityQueue / Design |
 | 647 | Palindromic Substrings (回文子串) | Medium | Iteration |
 | 739 | Daily Temperatures (每日温度) | Medium | Stack |
+| 1309 | Decrypt String from Alphabet to Integer Mapping (解码字母到整数映射) | Easy | Iteration |
 
 
-## Python
+## JianZhiOffer
 | Num | Title | Difficulty | Tag |
 | ------ | ------ | ------ | ------ |
-| 1 | Two Sum | Easy | Dictionary |
+| 5 | 替换空格 | Easy | Iteration |
+| 6 | 从尾到头打印链表 | Easy | Stack |
+| 10-1 | 斐波那契数列 | Easy | Dynamic Programming |
+| 10-2 | 青蛙跳台阶 | Easy | Dynamic Programming |
+| 11 | 旋转数组的最小数字 | Easy | Iteration |
+| 13 | 机器人的运动范围 | Medium | BFS (Mode) / DFS (Mode) |
