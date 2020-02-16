@@ -146,7 +146,9 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 380 | Insert Delete GetRandom O(1) (常数时间插入、删除和获取随机元素) | Medium | RandomizedSet |
 | 384 | Shuffle an Array (打乱数组) | Medium | Shuffle an Array |
 | 387 | First Unique Character in a String (字符串中的第一个唯一字符) | Easy | HashMap |
+| 394 | Decode String (字符串解码) | Medium | Stack |
 | 395 | Longest Substring with At Least K Repeating Characters (至少有K个重复字符的最长子串) | Medium | Recursion |
+| 406 | Queue Reconstruction by Height (根据身高重建队列) | Medium | Iteration (Override sort) |
 | 412 | Fizz Buzz | Easy | Iteration |
 | 416 | Partition Equal Subset Sum (分割等和子集) | Medium | Dynamic Programming (背包问题) |
 | 437 | Path Sum III (路径总和 III) | Easy | Double Recursion (Hard) |
@@ -175,3 +177,5 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 10-2 | 青蛙跳台阶 | Easy | Dynamic Programming |
 | 11 | 旋转数组的最小数字 | Easy | Iteration |
 | 13 | 机器人的运动范围 | Medium | BFS (Mode) / DFS (Mode) |
+| 14-1 | 剪绳子 | Medium | Math / Dynamic Programming |
+| 18-1 | 删除链表的节点 | Easy | Linked List |
