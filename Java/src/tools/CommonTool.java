@@ -5,6 +5,20 @@ import java.util.*;
 public class CommonTool {
 
     /*
+    构建一个最小堆
+     */
+    public void minHeap(int length) {
+        PriorityQueue<Integer> allocator =
+                new PriorityQueue<Integer>(
+                        length,
+                        new Comparator<Integer>() {
+                            public int compare(Integer a, Integer b) {
+                                return a - b;
+                            }
+                        });
+    }
+
+    /*
     获取字母位数的sum
      */
     public int getNumBitSum(int num) {

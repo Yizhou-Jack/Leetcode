@@ -90,6 +90,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 146 | LRU Cache (LRU缓存机制) | Medium | LinkedHashMap |
 | 148 | Sort List (排序链表) | Medium | Dual Pointer, Recursion |
 | 150 | Evaluate Reverse Polish Notation (逆波兰表达式求值) | Medium | Stack |
+| 151 | Reverse Words in a String (翻转字符串里的单词) | Medium | Iteration |
 | 152 | Maximum Product Subarray (乘积最大子序列) | Medium | Dynamic Programming |
 | 155 | Min Stack (最小栈) | Easy | Stack |
 | 160 | Intersection of Two Linked Lists (相交链表) | Easy | Dual Pointer |
@@ -124,6 +125,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 239 | Sliding Window Maximum (滑动窗口最大值) | Hard | Dynamic Programming |
 | 240 | Search a 2D Matrix II (搜索二维矩阵 II) | Medium | BFS / Dual Pointer |
 | 242 | Valid Anagram (有效的字母异位词) | Easy | Hash Table |
+| 253 | Meeting Rooms II (会议室 II) | Medium | Heap |
 | 268 | Missing Number (缺失数字) | Easy | Math |
 | 279 | Perfect Squares (完全平方数) | Medium | Dynamic Programming |
 | 283 | Move Zeroes (移动零) | Easy | Iteration / Dual Pointer |
@@ -165,6 +167,8 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 621 | Task Scheduler (任务调度器) | Medium | PriorityQueue / Design |
 | 647 | Palindromic Substrings (回文子串) | Medium | Iteration |
 | 739 | Daily Temperatures (每日温度) | Medium | Stack |
+| 771 | Jewels and Stones (宝石与石头) | Easy | Iteration |
+| 909 | Snakes and Ladders (蛇梯棋) | Medium | BFS |
 | 1309 | Decrypt String from Alphabet to Integer Mapping (解码字母到整数映射) | Easy | Iteration |
 
 
