@@ -24,6 +24,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 21 | Merge Two Sorted Lists (合并两个有序链表) | Easy | Linked List |
 | 22 | Generate Parentheses (括号生成) | Medium | Recursion |
 | 23 | Merge K Sorted Lists (合并K个排序链表) | Hard | Recursion, Linked List |
+| 24 | Swap Nodes in Pairs (两两交换链表中的节点) | Medium | Linked List |
 | 26 | Remove Duplicates from Sorted Array (删除排序数组中的重复项) | Easy | Dual Pointer |
 | 28 | Implement strStr() (实现 strStr()) | Easy | Dual Pointer (Using substring) |
 | 29 | Divide Two Integers (两数相除) | Medium | Recursion (Half PASS) |
@@ -127,11 +128,13 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 242 | Valid Anagram (有效的字母异位词) | Easy | Hash Table |
 | 253 | Meeting Rooms II (会议室 II) | Medium | Heap |
 | 268 | Missing Number (缺失数字) | Easy | Math |
+| 273 | Integer to English Words (整数转换英文表示) | Hard | Iteration (Hard Design) |
 | 279 | Perfect Squares (完全平方数) | Medium | Dynamic Programming |
 | 283 | Move Zeroes (移动零) | Easy | Iteration / Dual Pointer |
 | 287 | Find the Duplicate Number (寻找重复数) | Medium | Iteration (TRICKY like No.142) |
 | 289 | Game of Life (生命游戏) | Medium | Iteration |
 | 292 | Nim Game (Nim游戏) | Easy | Math |
+| 297 | Serialize and Deserialize Binary Tree (二叉树的序列化与反序列化) | Hard | Data Structure |
 | 300 | Longest Increasing Subsequence (最长上升子序列) | Medium | Dynamic Programming & Binary Search |
 | 315 | Count of Smaller Numbers After Self (计算右侧小于当前元素的个数) | Hard | Search Tree |
 | 322 | Coin Change (零钱兑换) | Medium | Dynamic Programming |

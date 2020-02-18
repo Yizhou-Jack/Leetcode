@@ -42,6 +42,13 @@ public class TransformTool {
     }
 
     /*
+    int转为char
+    */
+    public static int IntToChar(int num) {
+        return (char)(num + 'a');
+    }
+
+    /*
     数字char转为int
     */
     public static int NumCharToInt(char numChar) {
