@@ -1,3 +1,5 @@
+import structures.ListNode;
+
 import java.util.Arrays;
 
 public class Test {
@@ -23,11 +25,27 @@ public class Test {
     }
 
     public static void main(String[] args) {
-        System.out.println(Integer.MAX_VALUE);
-        System.out.println(Integer.MIN_VALUE);
-        char a = 'a';
-        char b = 'b';
-        System.out.println(a-'a');
-        System.out.println(b-'a');
+        ListNode[] list = new ListNode[5];
+        ListNode nodes = ListNode.buildListNode(new int[]{1,2,3,4,5});
+        ListNode res = nodes;
+        ListNode res2 = nodes;
+        for (int i = 0; i < 5; i++) {
+            list[i] = nodes;
+            nodes = nodes.next;
+        }
+        for (int i = 0; i < 5; i++) {
+            System.out.println(list[i]);
+            System.out.println(res);
+            res = res.next;
+            System.out.println(" ");
+        }
+        for (int i = 4; i > 0; i--) {
+            list[i].next = list[i-1];
+        }
+        list[0].next = null;
+        for (int i = 0; i < 5; i++) {
+            System.out.println(list[i].next);
+        }
+        ListNode.printLinkedList(res2);
     }
 }

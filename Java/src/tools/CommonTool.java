@@ -1,8 +1,25 @@
 package tools;
 
+import structures.ListNode;
+
 import java.util.*;
 
 public class CommonTool {
+
+    /*
+    反转链表
+     */
+    public ListNode reverse(ListNode head) {
+        ListNode pre = null;
+        ListNode curr = head;
+        while (curr != null) {
+            ListNode next = curr.next;
+            curr.next = pre;
+            pre = curr;
+            curr = next;
+        }
+        return pre;
+    }
 
     /*
     构建一个最小堆

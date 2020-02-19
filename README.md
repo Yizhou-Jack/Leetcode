@@ -25,6 +25,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 22 | Generate Parentheses (括号生成) | Medium | Recursion |
 | 23 | Merge K Sorted Lists (合并K个排序链表) | Hard | Recursion, Linked List |
 | 24 | Swap Nodes in Pairs (两两交换链表中的节点) | Medium | Linked List |
+| 25 | Reverse Nodes in k-Group (K 个一组翻转链表) | Hard | Linked List |
 | 26 | Remove Duplicates from Sorted Array (删除排序数组中的重复项) | Easy | Dual Pointer |
 | 28 | Implement strStr() (实现 strStr()) | Easy | Dual Pointer (Using substring) |
 | 29 | Divide Two Integers (两数相除) | Medium | Recursion (Half PASS) |
@@ -96,6 +97,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 155 | Min Stack (最小栈) | Easy | Stack |
 | 160 | Intersection of Two Linked Lists (相交链表) | Easy | Dual Pointer |
 | 162 | Find Peak Element (寻找峰值) | Medium | Binary Search |
+| 165 | Compare Version Numbers (比较版本号) | Medium | Iteration |
 | 169 | Majority Element (多数元素) | Easy | HashMap / Boyer-Moore Vote |
 | 171 | Excel Sheet Column Number (Excel表列序号) | Easy | Iteration |
 | 172 | Factorial Trailing Zeroes (阶乘后的零) | Easy | Math |
@@ -146,6 +148,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 337 | House Robber III (打家劫舍 III) | Medium | Recursion |
 | 344 | Reverse String (反转字符串) | Easy | Dual Pointer |
 | 347 | Top K Frequent Elements (前K个高频元素) | Medium | Heap |
+| 348 | Design Tic-Tac-Toe (判定井字棋胜负) | Medium | Data Structure |
 | 350 | Intersection of Two Arrays II (两个数组的交集 II) | Easy | Dual Pointer |
 | 378 | Kth Smallest Element in a Sorted Matrix (有序矩阵中第K小的元素) | Medium | Binary Search |
 | 380 | Insert Delete GetRandom O(1) (常数时间插入、删除和获取随机元素) | Medium | RandomizedSet |
@@ -158,6 +161,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 416 | Partition Equal Subset Sum (分割等和子集) | Medium | Dynamic Programming (背包问题) |
 | 437 | Path Sum III (路径总和 III) | Easy | Double Recursion (Hard) |
 | 438 | Find All Anagrams in a String (找到字符串中所有字母异位词) | Medium | Dual Pointer (Sliding Window) |
+| 445 | Add Two Numbers II (两数相加 II) | Medium | Linked List |
 | 448 | Find All Numbers Disappeared in an Array (找到所有数组中消失的数字) | Easy | Iteration |
 | 454 | 4Sum II (四数相加 II) | Medium | HashMap |
 | 494 | Target Sum (目标和) | Medium | Dynamic Programming (背包问题) |
