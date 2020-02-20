@@ -94,6 +94,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 150 | Evaluate Reverse Polish Notation (逆波兰表达式求值) | Medium | Stack |
 | 151 | Reverse Words in a String (翻转字符串里的单词) | Medium | Iteration |
 | 152 | Maximum Product Subarray (乘积最大子序列) | Medium | Dynamic Programming |
+| 153 | Find Minimum in Rotated Sorted Array (寻找旋转排序数组中的最小值) | Medium | Binary Search |
 | 155 | Min Stack (最小栈) | Easy | Stack |
 | 160 | Intersection of Two Linked Lists (相交链表) | Easy | Dual Pointer |
 | 162 | Find Peak Element (寻找峰值) | Medium | Binary Search |
@@ -102,6 +103,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 171 | Excel Sheet Column Number (Excel表列序号) | Easy | Iteration |
 | 172 | Factorial Trailing Zeroes (阶乘后的零) | Easy | Math |
 | 179 | Largest Number (最大数) | Medium | Override Comparator |
+| 186 | Reverse Words in a String II (翻转字符串里的单词 II) | Medium | Iteration |
 | 189 | Rotate Array (旋转数组) | Easy | Iteration |
 | 190 | Reverse Bits (颠倒二进制位) | Easy | Bit Operation |
 | 191 | Number of 1 Bits (位1的个数) | Easy | Bit Operation |
@@ -131,6 +133,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 253 | Meeting Rooms II (会议室 II) | Medium | Heap |
 | 268 | Missing Number (缺失数字) | Easy | Math |
 | 273 | Integer to English Words (整数转换英文表示) | Hard | Iteration (Hard Design) |
+| 277 | Find the Celebrity (搜寻名人) | Medium | Iteration |
 | 279 | Perfect Squares (完全平方数) | Medium | Dynamic Programming |
 | 283 | Move Zeroes (移动零) | Easy | Iteration / Dual Pointer |
 | 287 | Find the Duplicate Number (寻找重复数) | Medium | Iteration (TRICKY like No.142) |
@@ -167,6 +170,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 494 | Target Sum (目标和) | Medium | Dynamic Programming (背包问题) |
 | 538 | Convert BST to Greater Tree (把二叉搜索树转换为累加树) | Easy | Recursion |
 | 543 | Diameter of Binary Tree (二叉树的直径) | Easy | Recursion |
+| 545 | Boundary of Binary Tree (二叉树的边界) | Medium | Iteration |
 | 557 | Reverse Words in a String III (反转字符串中的单词 III) | Easy | HashMap |
 | 560 | Subarray Sum Equals K (和为K的子数组) | Medium | HashMap |
 | 581 | Shortest Unsorted Continuous Subarray (最短无序连续子数组) | Easy | Iteration |

@@ -25,27 +25,9 @@ public class Test {
     }
 
     public static void main(String[] args) {
-        ListNode[] list = new ListNode[5];
-        ListNode nodes = ListNode.buildListNode(new int[]{1,2,3,4,5});
-        ListNode res = nodes;
-        ListNode res2 = nodes;
-        for (int i = 0; i < 5; i++) {
-            list[i] = nodes;
-            nodes = nodes.next;
+        int j = 3;
+        for (int i = 0; i < 7 && i != j; i++) {
+            System.out.println(i);
         }
-        for (int i = 0; i < 5; i++) {
-            System.out.println(list[i]);
-            System.out.println(res);
-            res = res.next;
-            System.out.println(" ");
-        }
-        for (int i = 4; i > 0; i--) {
-            list[i].next = list[i-1];
-        }
-        list[0].next = null;
-        for (int i = 0; i < 5; i++) {
-            System.out.println(list[i].next);
-        }
-        ListNode.printLinkedList(res2);
     }
 }
