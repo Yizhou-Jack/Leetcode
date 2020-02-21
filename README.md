@@ -136,6 +136,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 277 | Find the Celebrity (搜寻名人) | Medium | Iteration |
 | 279 | Perfect Squares (完全平方数) | Medium | Dynamic Programming |
 | 283 | Move Zeroes (移动零) | Easy | Iteration / Dual Pointer |
+| 285 | Inorder Successor in BST (二叉搜索树中的顺序后继) | Medium | Iteration / Recursion |
 | 287 | Find the Duplicate Number (寻找重复数) | Medium | Iteration (TRICKY like No.142) |
 | 289 | Game of Life (生命游戏) | Medium | Iteration |
 | 292 | Nim Game (Nim游戏) | Easy | Math |
@@ -177,9 +178,12 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 617 | Merge Two Binary Trees (合并二叉树) | Easy | Recursion |
 | 621 | Task Scheduler (任务调度器) | Medium | PriorityQueue / Design |
 | 647 | Palindromic Substrings (回文子串) | Medium | Iteration |
+| 722 | Remove Comments (删除注释) | Medium | State Machine |
 | 739 | Daily Temperatures (每日温度) | Medium | Stack |
 | 771 | Jewels and Stones (宝石与石头) | Easy | Iteration |
+| 772 | Basic Calculator III (基本计算器 III) | Hard | Recursion |
 | 909 | Snakes and Ladders (蛇梯棋) | Medium | BFS |
+| 1239 | Maximum Length of a Concatenated String with Unique Characters (串联字符串的最大长度) | Medium |  |
 | 1309 | Decrypt String from Alphabet to Integer Mapping (解码字母到整数映射) | Easy | Iteration |
 
 
