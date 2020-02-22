@@ -160,15 +160,18 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 387 | First Unique Character in a String (字符串中的第一个唯一字符) | Easy | HashMap |
 | 394 | Decode String (字符串解码) | Medium | Stack |
 | 395 | Longest Substring with At Least K Repeating Characters (至少有K个重复字符的最长子串) | Medium | Recursion |
+| 402 | Remove K Digits (移掉K位数字) | Medium | Stack |
 | 406 | Queue Reconstruction by Height (根据身高重建队列) | Medium | Iteration (Override sort) |
 | 412 | Fizz Buzz | Easy | Iteration |
 | 416 | Partition Equal Subset Sum (分割等和子集) | Medium | Dynamic Programming (背包问题) |
+| 419 | Battleships in a Board (甲板上的战舰) | Easy | Double Recursion (Hard) |
 | 437 | Path Sum III (路径总和 III) | Easy | Double Recursion (Hard) |
 | 438 | Find All Anagrams in a String (找到字符串中所有字母异位词) | Medium | Dual Pointer (Sliding Window) |
 | 445 | Add Two Numbers II (两数相加 II) | Medium | Linked List |
 | 448 | Find All Numbers Disappeared in an Array (找到所有数组中消失的数字) | Easy | Iteration |
 | 454 | 4Sum II (四数相加 II) | Medium | HashMap |
 | 494 | Target Sum (目标和) | Medium | Dynamic Programming (背包问题) |
+| 535 | Encode and Decode TinyURL (TinyURL 的加密与解密) | Medium | Data Structure |
 | 538 | Convert BST to Greater Tree (把二叉搜索树转换为累加树) | Easy | Recursion |
 | 543 | Diameter of Binary Tree (二叉树的直径) | Easy | Recursion |
 | 545 | Boundary of Binary Tree (二叉树的边界) | Medium | Iteration |
@@ -177,13 +180,15 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 581 | Shortest Unsorted Continuous Subarray (最短无序连续子数组) | Easy | Iteration |
 | 617 | Merge Two Binary Trees (合并二叉树) | Easy | Recursion |
 | 621 | Task Scheduler (任务调度器) | Medium | PriorityQueue / Design |
+| 636 | Exclusive Time of Functions (函数的独占时间) | Medium | Stack |
 | 647 | Palindromic Substrings (回文子串) | Medium | Iteration |
 | 722 | Remove Comments (删除注释) | Medium | State Machine |
 | 739 | Daily Temperatures (每日温度) | Medium | Stack |
 | 771 | Jewels and Stones (宝石与石头) | Easy | Iteration |
 | 772 | Basic Calculator III (基本计算器 III) | Hard | Recursion |
+| 836 | Rectangle Overlap (矩形重叠) | Easy | Math |
 | 909 | Snakes and Ladders (蛇梯棋) | Medium | BFS |
-| 1239 | Maximum Length of a Concatenated String with Unique Characters (串联字符串的最大长度) | Medium |  |
+| 1239 | Maximum Length of a Concatenated String with Unique Characters (串联字符串的最大长度) | Medium | Recursion (Backtrack Algorithm) |
 | 1309 | Decrypt String from Alphabet to Integer Mapping (解码字母到整数映射) | Easy | Iteration |
 
 
