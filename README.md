@@ -63,6 +63,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 85 | Maximal Rectangle (最大矩形) | Hard | Stack (Like No.84) |
 | 88 | Merge Sorted Array (合并两个有序数组) | Easy | Iteration |
 | 91 | Decode Ways (解码方法) | Medium | Dynamic Programming |
+| 93 | Restore IP Addresses (复原IP地址) | Medium | Recursion (Backtrack Algorithm) |
 | 94 | Binary Tree Inorder Traversal (二叉树的中序遍历) | Medium | Recursion / Morris Traversal / Stack |
 | 96 | Unique Binary Search Trees (不同的二叉搜索树) | Medium | Dynamic Programming |
 | 98 | Validate Binary Search Tree (验证二叉搜索树) | Medium | Recursion / Stack / Inorder Traversal |
@@ -151,6 +152,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 334 | Increasing Triplet Subsequence (递增的三元子序列) | Medium | Iteration |
 | 337 | House Robber III (打家劫舍 III) | Medium | Recursion |
 | 344 | Reverse String (反转字符串) | Easy | Dual Pointer |
+| 346 | Moving Average from Data Stream (数据流中的移动平均值) | Easy | Data Structure |
 | 347 | Top K Frequent Elements (前K个高频元素) | Medium | Heap |
 | 348 | Design Tic-Tac-Toe (判定井字棋胜负) | Medium | Data Structure |
 | 350 | Intersection of Two Arrays II (两个数组的交集 II) | Easy | Dual Pointer |
@@ -167,6 +169,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 419 | Battleships in a Board (甲板上的战舰) | Easy | Double Recursion (Hard) |
 | 437 | Path Sum III (路径总和 III) | Easy | Double Recursion (Hard) |
 | 438 | Find All Anagrams in a String (找到字符串中所有字母异位词) | Medium | Dual Pointer (Sliding Window) |
+| 443 | String Compression (压缩字符串) | Easy | Dual Pointer |
 | 445 | Add Two Numbers II (两数相加 II) | Medium | Linked List |
 | 448 | Find All Numbers Disappeared in an Array (找到所有数组中消失的数字) | Easy | Iteration |
 | 454 | 4Sum II (四数相加 II) | Medium | HashMap |
@@ -182,6 +185,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 621 | Task Scheduler (任务调度器) | Medium | PriorityQueue / Design |
 | 636 | Exclusive Time of Functions (函数的独占时间) | Medium | Stack |
 | 647 | Palindromic Substrings (回文子串) | Medium | Iteration |
+| 706 | Design HashMap (设计哈希映射) | Medium | Data Structure |
 | 722 | Remove Comments (删除注释) | Medium | State Machine |
 | 739 | Daily Temperatures (每日温度) | Medium | Stack |
 | 771 | Jewels and Stones (宝石与石头) | Easy | Iteration |
