@@ -63,6 +63,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 85 | Maximal Rectangle (最大矩形) | Hard | Stack (Like No.84) |
 | 88 | Merge Sorted Array (合并两个有序数组) | Easy | Iteration |
 | 91 | Decode Ways (解码方法) | Medium | Dynamic Programming |
+| 92 | Reverse Linked List II (反转链表 II) | Medium | Linked List |
 | 93 | Restore IP Addresses (复原IP地址) | Medium | Recursion (Backtrack Algorithm) |
 | 94 | Binary Tree Inorder Traversal (二叉树的中序遍历) | Medium | Recursion / Morris Traversal / Stack |
 | 96 | Unique Binary Search Trees (不同的二叉搜索树) | Medium | Dynamic Programming |
@@ -119,10 +120,12 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 215 | Kth Largest Element in an Array (数组中的第K个最大元素) | Medium | Heap |
 | 217 | Contains Duplicate (存在重复元素) | Easy | Iteration / HashSet |
 | 221 | Maximal Square (最大正方形) | Medium | Dynamic Programming |
+| 225 | Implement Stack using Queues (用队列实现栈) | Easy | Data Structure |
 | 226 | Invert Binary Tree (翻转二叉树) | Easy | Recursion |
 | 227 | Basic Calculator II (基本计算器 II) | Medium | Stack |
 | 230 | Kth Smallest Element in a BST (二叉搜索树中第K小的元素) | Medium | Recursion / Iteration |
 | 231 | Power of Two (2的幂) | Easy | Iteration |
+| 232 | Implement Queue using Stacks (用栈实现队列) | Easy | Data Structure |
 | 234 | Palindrome Linked List (回文链表) | Easy | Dual Pointer |
 | 235 | Lowest Common Ancestor of a Binary Search Tree (二叉搜索树的最近公共祖先) | Easy | Recursion / Iteration |
 | 236 | Lowest Common Ancestor of a Binary Tree (二叉树的最近公共祖先) | Medium | Recursion |
@@ -190,6 +193,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 739 | Daily Temperatures (每日温度) | Medium | Stack |
 | 771 | Jewels and Stones (宝石与石头) | Easy | Iteration |
 | 772 | Basic Calculator III (基本计算器 III) | Hard | Recursion |
+| 794 | Valid Tic-Tac-Toe State (有效的井字游戏) | Medium | Iteration |
 | 836 | Rectangle Overlap (矩形重叠) | Easy | Math |
 | 909 | Snakes and Ladders (蛇梯棋) | Medium | BFS |
 | 1239 | Maximum Length of a Concatenated String with Unique Characters (串联字符串的最大长度) | Medium | Recursion (Backtrack Algorithm) |
