@@ -43,6 +43,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 48 | Rotate Image (旋转图像) | Medium | TRICKY |
 | 49 | Group Anagrams (字母异位词分组) | Medium | Hash Table |
 | 50 | Pow(x, n) | Medium | Recursion |
+| 51 | N-Queens (N皇后) | Hard | Recursion (Backtrack Algorithm) |
 | 53 | Maximum Subarray (最大子序和) | Easy | Dynamic Programming |
 | 54 | Spiral Matrix (螺旋矩阵) | Medium | Iteration (TRICKY) |
 | 55 | Jump Game (跳跃游戏) | Medium | Iteration |
@@ -54,6 +55,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 66 | Plus One (加一) | Easy | Math |
 | 69 | Sqrt(x) (x的平方根) | Easy | Binary Search or Newton's Method |
 | 70 | Climbing Stairs (爬楼梯) | Easy | Dynamic Programming |
+| 71 | Simplify Path (简化路径) | Medium | Stack |
 | 73 | Set Matrix Zeroes (矩阵置零) | Medium | Iteration |
 | 73 | Sort Colors (颜色分类) | Medium | Triple Pointer |
 | 76 | Minimum Window Substring (最小覆盖子串) | Hard | Dual Pointer (Sliding Window) |
@@ -85,12 +87,14 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 128 | Longest Consecutive Sequence (最长连续序列) | Hard | HashSet |
 | 130 | Surrounded Regions (被围绕的区域) | Medium | DFS / Union-Find |
 | 131 | Palindrome Partitioning (分割回文串) | Medium | (UNDO) |
+| 133 |  Clone Graph (克隆图) | Medium | BFS |
 | 134 | Gas Station (加油站) | Medium | Iteration |
 | 136 | Single Number (只出现一次的数字) | Easy | HashMap / Iteration |
 | 138 | Copy List with Random Pointer (复制带随机指针的链表) | Medium | Linked List |
 | 139 | Word Break (单词拆分) | Medium | BFS (Queue) |
 | 141 | Linked List Cycle (环形链表) | Easy | Linked List / Dual Pointer |
 | 142 | Linked List Cycle II (环形链表 II) | Medium | Iteration (TRICKY like No.287) |
+| 143 | Reorder List (重排链表) | Medium | Linked List |
 | 146 | LRU Cache (LRU缓存机制) | Medium | LinkedHashMap |
 | 148 | Sort List (排序链表) | Medium | Dual Pointer, Recursion |
 | 150 | Evaluate Reverse Polish Notation (逆波兰表达式求值) | Medium | Stack |
