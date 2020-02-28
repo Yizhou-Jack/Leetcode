@@ -57,7 +57,8 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 70 | Climbing Stairs (爬楼梯) | Easy | Dynamic Programming |
 | 71 | Simplify Path (简化路径) | Medium | Stack |
 | 73 | Set Matrix Zeroes (矩阵置零) | Medium | Iteration |
-| 73 | Sort Colors (颜色分类) | Medium | Triple Pointer |
+| 74 | Search a 2D Matrix (搜索二维矩阵) | Medium | Binary Search |
+| 75 | Sort Colors (颜色分类) | Medium | Triple Pointer |
 | 76 | Minimum Window Substring (最小覆盖子串) | Hard | Dual Pointer (Sliding Window) |
 | 78 | Subsets (子集) | Medium | Recursion (Backtrack Algorithm) |
 | 79 | Word Search (单词搜索) | Medium | Recursion (Backtrack Algorithm) |
@@ -76,6 +77,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 104 | Maximum Depth of Binary Tree (二叉树的最大深度) | Easy | Recursion |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal (从前序与中序遍历序列构造二叉树) | Medium | Recursion |
 | 108 | Convert Sorted Array to Binary Search Tree (将有序数组转换为二叉搜索树) | Easy | Recursion |
+| 110 | Balanced Binary Tree (平衡二叉树) | Easy | Recursion |
 | 114 | Flatten Binary Tree to Linked List (二叉树展开为链表) | Medium | Iteration |
 | 116 | Populating Next Right Pointers in Each Node (填充每个节点的下一个右侧节点指针) | Medium | Recursion |
 | 118 | Pascal's Triangle (杨辉三角) | Easy | Dynamic Programming |
@@ -124,9 +126,11 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 215 | Kth Largest Element in an Array (数组中的第K个最大元素) | Medium | Heap |
 | 217 | Contains Duplicate (存在重复元素) | Easy | Iteration / HashSet |
 | 221 | Maximal Square (最大正方形) | Medium | Dynamic Programming |
+| 223 | Rectangle Area (矩形面积) | Medium | Math |
 | 225 | Implement Stack using Queues (用队列实现栈) | Easy | Data Structure |
 | 226 | Invert Binary Tree (翻转二叉树) | Easy | Recursion |
 | 227 | Basic Calculator II (基本计算器 II) | Medium | Stack |
+| 229 | Majority Element II (求众数 II) | Medium |  |
 | 230 | Kth Smallest Element in a BST (二叉搜索树中第K小的元素) | Medium | Recursion / Iteration |
 | 231 | Power of Two (2的幂) | Easy | Iteration |
 | 232 | Implement Queue using Stacks (用栈实现队列) | Easy | Data Structure |
