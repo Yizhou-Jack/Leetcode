@@ -76,6 +76,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 103 | Binary Tree Zigzag Level Order Traversal (二叉树的锯齿形层次遍历) | Medium | Recursion / Stack |
 | 104 | Maximum Depth of Binary Tree (二叉树的最大深度) | Easy | Recursion |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal (从前序与中序遍历序列构造二叉树) | Medium | Recursion |
+| 106 | Construct Binary Tree from Inorder and Postorder Traversal (从中序与后序遍历序列构造二叉树) | Medium | Recursion |
 | 108 | Convert Sorted Array to Binary Search Tree (将有序数组转换为二叉搜索树) | Easy | Recursion |
 | 110 | Balanced Binary Tree (平衡二叉树) | Easy | Recursion |
 | 114 | Flatten Binary Tree to Linked List (二叉树展开为链表) | Medium | Iteration |
@@ -83,6 +84,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 118 | Pascal's Triangle (杨辉三角) | Easy | Dynamic Programming |
 | 121 | Best Time to Buy and Sell Stock (买卖股票的最佳时机) | Easy | Dynamic Programming |
 | 122 | Best Time to Buy and Sell Stock II (买卖股票的最佳时机 II) | Easy | Dynamic Programming |
+| 123 | Best Time to Buy and Sell Stock III (买卖股票的最佳时机 III) | Hard | Dynamic Programming |
 | 124 | Binary Tree Maximum Path Sum (二叉树中的最大路径和) | Hard | Recursion |
 | 125 | Valid Palindrome (验证回文串) | Easy | Dual Pointer |
 | 127 | Word Ladder (单词接龙) | Medium | BFS (Queue) |
@@ -107,6 +109,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 160 | Intersection of Two Linked Lists (相交链表) | Easy | Dual Pointer |
 | 162 | Find Peak Element (寻找峰值) | Medium | Binary Search |
 | 165 | Compare Version Numbers (比较版本号) | Medium | Iteration |
+| 167 |Two Sum II - Input array is sorted (两数之和 II - 输入有序数组) | Easy | Dual Pointer |
 | 169 | Majority Element (多数元素) | Easy | HashMap / Boyer-Moore Vote |
 | 171 | Excel Sheet Column Number (Excel表列序号) | Easy | Iteration |
 | 172 | Factorial Trailing Zeroes (阶乘后的零) | Easy | Math |
@@ -196,6 +199,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 621 | Task Scheduler (任务调度器) | Medium | PriorityQueue / Design |
 | 636 | Exclusive Time of Functions (函数的独占时间) | Medium | Stack |
 | 647 | Palindromic Substrings (回文子串) | Medium | Iteration |
+| 695 | Max Area of Island (岛屿的最大面积) | Medium | DFS |
 | 706 | Design HashMap (设计哈希映射) | Medium | Data Structure |
 | 722 | Remove Comments (删除注释) | Medium | State Machine |
 | 739 | Daily Temperatures (每日温度) | Medium | Stack |

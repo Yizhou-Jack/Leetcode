@@ -4,7 +4,7 @@ import structures.TreeNode;
 
 import java.util.HashMap;
 
-public class Solution {
+public class Solution1 {
 
     /*
     递归解法：
