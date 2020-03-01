@@ -62,6 +62,8 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 76 | Minimum Window Substring (最小覆盖子串) | Hard | Dual Pointer (Sliding Window) |
 | 78 | Subsets (子集) | Medium | Recursion (Backtrack Algorithm) |
 | 79 | Word Search (单词搜索) | Medium | Recursion (Backtrack Algorithm) |
+| 81 | Search in Rotated Sorted Array II (搜索旋转排序数组 II) | Medium | Binary Search |
+| 83 | Remove Duplicates from Sorted List (删除排序链表中的重复元素) | Easy | Linked List |
 | 84 | Largest Rectangle in Histogram (柱状图中最大的矩形) | Hard | Stack / Recursion |
 | 85 | Maximal Rectangle (最大矩形) | Hard | Stack (Like No.84) |
 | 88 | Merge Sorted Array (合并两个有序数组) | Easy | Iteration |
@@ -113,6 +115,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 169 | Majority Element (多数元素) | Easy | HashMap / Boyer-Moore Vote |
 | 171 | Excel Sheet Column Number (Excel表列序号) | Easy | Iteration |
 | 172 | Factorial Trailing Zeroes (阶乘后的零) | Easy | Math |
+| 174 | Dungeon Game (地下城游戏) | Hard | Dynamic Programming |
 | 179 | Largest Number (最大数) | Medium | Override Comparator |
 | 186 | Reverse Words in a String II (翻转字符串里的单词 II) | Medium | Iteration |
 | 189 | Rotate Array (旋转数组) | Easy | Iteration |
@@ -145,6 +148,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 239 | Sliding Window Maximum (滑动窗口最大值) | Hard | Dynamic Programming |
 | 240 | Search a 2D Matrix II (搜索二维矩阵 II) | Medium | BFS / Dual Pointer |
 | 242 | Valid Anagram (有效的字母异位词) | Easy | Hash Table |
+| 252 | Meeting Rooms (会议室) | Easy |  |
 | 253 | Meeting Rooms II (会议室 II) | Medium | Heap |
 | 268 | Missing Number (缺失数字) | Easy | Math |
 | 273 | Integer to English Words (整数转换英文表示) | Hard | Iteration (Hard Design) |
