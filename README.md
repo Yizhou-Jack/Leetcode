@@ -81,6 +81,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal (从中序与后序遍历序列构造二叉树) | Medium | Recursion |
 | 108 | Convert Sorted Array to Binary Search Tree (将有序数组转换为二叉搜索树) | Easy | Recursion |
 | 110 | Balanced Binary Tree (平衡二叉树) | Easy | Recursion |
+| 112 | Path Sum (路径总和) | Easy | Recursion |
 | 114 | Flatten Binary Tree to Linked List (二叉树展开为链表) | Medium | Iteration |
 | 116 | Populating Next Right Pointers in Each Node (填充每个节点的下一个右侧节点指针) | Medium | Recursion |
 | 118 | Pascal's Triangle (杨辉三角) | Easy | Dynamic Programming |
@@ -198,11 +199,14 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 545 | Boundary of Binary Tree (二叉树的边界) | Medium | Iteration |
 | 557 | Reverse Words in a String III (反转字符串中的单词 III) | Easy | HashMap |
 | 560 | Subarray Sum Equals K (和为K的子数组) | Medium | HashMap |
+| 572 | Subtree of Another Tree (另一个树的子树) | Easy | Recursion |
 | 581 | Shortest Unsorted Continuous Subarray (最短无序连续子数组) | Easy | Iteration |
 | 617 | Merge Two Binary Trees (合并二叉树) | Easy | Recursion |
 | 621 | Task Scheduler (任务调度器) | Medium | PriorityQueue / Design |
 | 636 | Exclusive Time of Functions (函数的独占时间) | Medium | Stack |
+| 642 | Design Search Autocomplete System (设计搜索自动补全系统) | Hard | Data Structure |
 | 647 | Palindromic Substrings (回文子串) | Medium | Iteration |
+| 669 | Trim a Binary Search Tree (修剪二叉搜索树) | Easy | Recursion |
 | 695 | Max Area of Island (岛屿的最大面积) | Medium | DFS |
 | 706 | Design HashMap (设计哈希映射) | Medium | Data Structure |
 | 722 | Remove Comments (删除注释) | Medium | State Machine |
