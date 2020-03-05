@@ -51,6 +51,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 59 | Spiral Matrix II (螺旋矩阵 II) | Medium | Iteration (TRICKY) like No. 54 |
 | 61 | Rotate List (旋转链表) | Medium | Linked List |
 | 62 | Unique Paths (不同路径) | Medium | Math / Dynamic Programming |
+| 63 | Unique Paths II (不同路径 II) | Medium | Dynamic Programming |
 | 64 | Minimum Path Sum (最小路径和) | Medium | Dynamic Programming |
 | 66 | Plus One (加一) | Easy | Math |
 | 69 | Sqrt(x) (x的平方根) | Easy | Binary Search or Newton's Method |
@@ -60,6 +61,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 74 | Search a 2D Matrix (搜索二维矩阵) | Medium | Binary Search |
 | 75 | Sort Colors (颜色分类) | Medium | Triple Pointer |
 | 76 | Minimum Window Substring (最小覆盖子串) | Hard | Dual Pointer (Sliding Window) |
+| 77 | Combinations (组合) | Medium | Recursion (Backtrack Algorithm) |
 | 78 | Subsets (子集) | Medium | Recursion (Backtrack Algorithm) |
 | 79 | Word Search (单词搜索) | Medium | Recursion (Backtrack Algorithm) |
 | 81 | Search in Rotated Sorted Array II (搜索旋转排序数组 II) | Medium | Binary Search |
@@ -96,6 +98,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 131 | Palindrome Partitioning (分割回文串) | Medium | (UNDO) |
 | 133 |  Clone Graph (克隆图) | Medium | BFS |
 | 134 | Gas Station (加油站) | Medium | Iteration |
+| 135 | Candy (分发糖果) | Hard | Dynamic Programming |
 | 136 | Single Number (只出现一次的数字) | Easy | HashMap / Iteration |
 | 138 | Copy List with Random Pointer (复制带随机指针的链表) | Medium | Linked List |
 | 139 | Word Break (单词拆分) | Medium | BFS (Queue) |
@@ -123,6 +126,7 @@ Use Java to solve Leetcode&JianZhiOffer problems.
 | 190 | Reverse Bits (颠倒二进制位) | Easy | Bit Operation |
 | 191 | Number of 1 Bits (位1的个数) | Easy | Bit Operation |
 | 198 | House Robber (打家劫舍) | Easy | Dynamic Programming |
+| 199 | Binary Tree Right Side View (二叉树的右视图) | Medium | BFS |
 | 200 | Number of Islands (岛屿数量) | Medium | DFS / BFS / Union-Find (UNDO) |
 | 202 | Happy Number (快乐数) | Easy | Iteration / Math |
 | 204 | Count Primes (计数质数) | Easy | Check Prime / Eratosthenes Method |
