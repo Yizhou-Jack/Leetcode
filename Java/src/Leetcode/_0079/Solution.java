@@ -32,28 +32,28 @@ public class Solution {
             return true;
         } else {
             //向右
-            if (n < board[0].length-1 && word.charAt(i) == board[m][n+1]) {
+            if (n+1 < board[0].length && word.charAt(i) == board[m][n+1]) {
                 char tmp = board[m][n+1];
                 board[m][n+1] = '#';
                 if (find(i+1, word, board, m, n+1)) return true;
                 board[m][n+1] = tmp;
             }
             //向左
-            if (n > 0 && word.charAt(i) == board[m][n-1]) {
+            if (n-1 >= 0 && word.charAt(i) == board[m][n-1]) {
                 char tmp = board[m][n-1];
                 board[m][n-1] = '#';
                 if (find(i+1, word, board, m, n-1)) return true;
                 board[m][n-1] = tmp;
             }
             //向上
-            if (m < board.length-1 && word.charAt(i) == board[m+1][n]) {
+            if (m+1 < board.length && word.charAt(i) == board[m+1][n]) {
                 char tmp = board[m+1][n];
                 board[m+1][n] = '#';
                 if (find(i+1, word, board, m+1, n)) return true;
                 board[m+1][n] = tmp;
             }
             //向下
-            if (m > 0 && word.charAt(i) == board[m-1][n]) {
+            if (m-1 >= 0 && word.charAt(i) == board[m-1][n]) {
                 char tmp = board[m-1][n];
                 board[m-1][n] = '#';
                 if (find(i+1, word, board, m-1, n)) return true;

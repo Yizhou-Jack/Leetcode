@@ -3,8 +3,17 @@ package tools;
 import structures.ListNode;
 
 import java.util.*;
+import java.util.regex.Pattern;
 
 public class CommonTool {
+
+    /*
+    判断String是否为Integer
+     */
+    public static boolean isInteger(String str) {
+        Pattern pattern = Pattern.compile("^[-\\+]?[\\d]*$");
+        return pattern.matcher(str).matches();
+    }
 
     /*
     反转链表
@@ -22,17 +31,24 @@ public class CommonTool {
     }
 
     /*
-    构建一个最小堆
+    构建一个大顶堆（新的元素入栈时，如果new < 堆顶，那么就删除堆顶，添加新元素入堆）
      */
-    public void minHeap(int length) {
+    public void maxHeap(int length) {
         PriorityQueue<Integer> allocator =
-                new PriorityQueue<Integer>(
+                new PriorityQueue<>(
                         length,
                         new Comparator<Integer>() {
                             public int compare(Integer a, Integer b) {
-                                return a - b;
+                                return b - a;
                             }
                         });
+    }
+
+    /*
+    构建一个小顶堆（新的元素入栈时，如果new > 堆顶，那么就删除堆顶，添加新元素入堆）
+     */
+    public void minHeap(int length) {
+        PriorityQueue<Integer> allocator = new PriorityQueue<>(length);
     }
 
     /*

@@ -27,8 +27,7 @@ public class Solution {
         //跳出while循环时l1和l2必定有个已然指到末尾变成了null，那么可以直接将prev.next指向不为null的链表
         if (l1 == null){
             prev.next = l2;
-        }
-        else{
+        } else{
             prev.next = l1;
         }
 

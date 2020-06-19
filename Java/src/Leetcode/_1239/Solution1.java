@@ -8,6 +8,7 @@ public class Solution1 {
     public int res = 0;
 
     public int maxLength(List<String> arr) {
+        //先检查字符串内部有没有重复，重复的话排除
         List<String> newArr = new ArrayList<>();
         for (int i = 0; i < arr.size(); i++) {
             String str = arr.get(i);
@@ -25,11 +26,11 @@ public class Solution1 {
         return res;
     }
 
-    public void backtrack(int i, List<String> nums, int[] track) {
-        for (int j = i; j < nums.size(); j++) {
+    public void backtrack(int i, List<String> strs, int[] track) {
+        for (int j = i; j < strs.size(); j++) {
             //做选择
             boolean flag = false;
-            String str = nums.get(j);
+            String str = strs.get(j);
             for (int k = 0; k < str.length(); k++) {
                 if (track[str.charAt(k)-'a'] != 0) flag = true;
             }
@@ -44,7 +45,7 @@ public class Solution1 {
                 res = Math.max(res, count);
             }
             //进入下一层决策树
-            backtrack(j + 1, nums, track);
+            backtrack(j + 1, strs, track);
             //取消选择
             if (!flag) {
                 for (int k = 0; k < str.length(); k++) {

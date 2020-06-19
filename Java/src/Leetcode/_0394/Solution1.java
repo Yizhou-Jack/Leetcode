@@ -10,7 +10,7 @@ public class Solution1 {
         Stack<Integer> stackMulti = new Stack<>();
         Stack<String> stackRes = new Stack<>();
         for (char c : s.toCharArray()) {
-            if (c == '[') {
+            if (c == '[') { //push数字位,push[之前的字符串
                 stackMulti.push(multi);
                 stackRes.push(res.toString());
                 multi = 0;

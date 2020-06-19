@@ -7,22 +7,24 @@ public class Solution {
 
     //滑动窗口法
     public static int lengthOfLongestSubstring(String s) {
-        int n = s.length();
-        int ans = 0;
+        int len = s.length();
+        int res = 0;
         Map<Character, Integer> map = new HashMap<>();
-        for (int end = 0, start = 0; end < n; end++) {
+
+        int start = 0;
+        for (int end = 0; end < len; end++) {
             char alpha = s.charAt(end);
             if (map.containsKey(alpha)) {
-                start = Math.max(map.get(alpha), start); //put相同的值覆盖，get的是最近的一个重复出现字母
+                start = Math.max(map.get(alpha), start); //get的是最近的一个重复出现字母的后一位字母的index
             }
-            ans = Math.max(ans, end - start + 1);
-            map.put(s.charAt(end), end + 1); //put相同的值而覆盖
+            res = Math.max(res, end - start + 1);
+            map.put(s.charAt(end), end + 1); //put的是后一位字母的index
         }
-        return ans;
+        return res;
     }
 
     public static void main(String[] args) {
-        int length = lengthOfLongestSubstring("hsggggduuwhdgsuiu");
+        int length = lengthOfLongestSubstring("abcbc");
         System.out.println(length);
     }
 
